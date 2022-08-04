@@ -1,0 +1,15 @@
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\NumerosParesVetor\bin\Debug\net6.0\NumerosParesVetor.exe
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\NumerosParesVetor\bin\Debug\net6.0\NumerosParesVetor.deps.json
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\NumerosParesVetor\bin\Debug\net6.0\NumerosParesVetor.runtimeconfig.json
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\NumerosParesVetor\bin\Debug\net6.0\NumerosParesVetor.dll
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\NumerosParesVetor\bin\Debug\net6.0\NumerosParesVetor.pdb
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\NumerosParesVetor\obj\Debug\net6.0\NumerosParesVetor.csproj.AssemblyReference.cache
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\NumerosParesVetor\obj\Debug\net6.0\NumerosParesVetor.GeneratedMSBuildEditorConfig.editorconfig
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\NumerosParesVetor\obj\Debug\net6.0\NumerosParesVetor.AssemblyInfoInputs.cache
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\NumerosParesVetor\obj\Debug\net6.0\NumerosParesVetor.AssemblyInfo.cs
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\NumerosParesVetor\obj\Debug\net6.0\NumerosParesVetor.csproj.CoreCompileInputs.cache
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\NumerosParesVetor\obj\Debug\net6.0\NumerosParesVetor.dll
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\NumerosParesVetor\obj\Debug\net6.0\refint\NumerosParesVetor.dll
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\NumerosParesVetor\obj\Debug\net6.0\NumerosParesVetor.pdb
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\NumerosParesVetor\obj\Debug\net6.0\NumerosParesVetor.genruntimeconfig.cache
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\NumerosParesVetor\obj\Debug\net6.0\ref\NumerosParesVetor.dll
